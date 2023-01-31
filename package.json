@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "license": "GPL-3.0-only",
   "repository": "https://github.com/aesirxio/aesirx-ckeditor",
-  "private": true,
   "main": "./build/ckeditor.js",
   "devDependencies": {
     "@ckeditor/ckeditor5-alignment": "^35.3.2",
