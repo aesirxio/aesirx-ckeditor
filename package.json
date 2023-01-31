@@ -51,5 +51,8 @@
     "lint:check": "eslint \"src/**/\"",
     "lint:nowarns": "eslint --quiet \"src/**/\"",
     "prepublishOnly": "npm run build"
-  }
+  },
+  "files": [
+    "build"
+  ]
 }
