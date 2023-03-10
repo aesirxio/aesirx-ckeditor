@@ -32,7 +32,7 @@
     "@ckeditor/ckeditor5-source-editing": "^36.0.1",
     "@ckeditor/ckeditor5-special-characters": "^36.0.1",
     "@ckeditor/ckeditor5-table": "^36.0.1",
-    "@ckeditor/ckeditor5-theme-lark": "^35.3.2",
+    "@ckeditor/ckeditor5-theme-lark": "^36.0.1",
     "@ckeditor/ckeditor5-typing": "^35.3.2",
     "css-loader": "^5.2.7",
     "eslint": "^8.17",
