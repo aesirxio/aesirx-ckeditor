@@ -1,7 +1,7 @@
 {
   "name": "aesirx-ckeditor",
   "author": "AesirX",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "GPL-3.0-only",
   "repository": "https://github.com/aesirxio/aesirx-ckeditor",
   "main": "./build/ckeditor.js",
